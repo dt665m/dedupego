@@ -1,1 +1,1 @@
-# Quick and Dirty Badger Wraper used for Deduping
+# Quick and Dirty Badger Wrapper used for Deduping
